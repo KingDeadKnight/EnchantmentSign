@@ -1,0 +1,4 @@
+name: EnchantSign
+main: king.enchantsign.EnchantSign
+version: "0.1"
+api: ["1.0.0"]
