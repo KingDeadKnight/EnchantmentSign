@@ -11,8 +11,11 @@ Documentation
 Place a sign and write:
 
 AdminEnchant
+
 Id:Level
+
 Amount of level
+
 Amount of lapis
 
 The sign will may change.
