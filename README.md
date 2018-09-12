@@ -11,9 +11,9 @@ Documentation
 Place a sign and write:
 
 AdminEnchant
-id:level
-amount of level
-amount of lapis
+Id:Level
+Amount of level
+Amount of lapis
 
 The sign will may change.
 
